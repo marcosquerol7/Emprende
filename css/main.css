@@ -1,0 +1,40 @@
+/*TIPOGRAFÍA: Opensans */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    max-width: 40rem;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.encabezado {
+    color: white;
+    font-weight: bold;
+    background-image: url("../img/fondo.jpg");
+    text-align: center;
+    background-position: center center;
+    padding: 3rem 0;
+}
+
+.flecha {
+    margin-top: 3rem;
+}
+
+.info1 {
+    background-color: #232342;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: #b93b3b;
+}
+
+.info2 {
+    background-color: #b93b3b;
+    color: white;
+    text-align: center;
+}
